@@ -18,7 +18,7 @@ Pour information, Git a été créé en 2005 par Linus Torvald, qui a (entre aut
 
 Avant de pouvoir se servir de Git, il faut l'installer. Cela tombe bien, il y a un [chapitre éponyme](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github/2433596-installez-git) dans le cours sur OC.
 
-Voici une petite vidéo d'introduction à Git, que tu pourras retrouver ici.(https://www.youtube.com/watch?v=ggaMadCKjko)
+Voici une petite vidéo d'introduction à Git, que tu pourras retrouver [ici.](https://www.youtube.com/watch?v=ggaMadCKjko)
 
 Ensuite, tu peux suivre le cours de Marc Gauthier jusqu'à la partie [Récupérez des modifications](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github/2433686-recuperez-des-modifications). Nous verrons dans la formation THP comment faire les branches et autres joyeusetés.
 
@@ -69,4 +69,4 @@ Pour aller plus loin :
 
 Au vu des apologies que l'on lui donne, le [cours de OpenClassrooms](https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github) sur Git est un très bon point pour aller plus loin. Il explique notamment la notion de branches et de fusions.
 
-Aussi, voici un cours(https://www.vikingcodeschool.com/web-development-basics/getting-to-know-git) sur Git de la Viking Code School. Il explique bien les bases de Git et est une bonne alternative au notre.
+Aussi, voici un [cours](https://www.vikingcodeschool.com/web-development-basics/getting-to-know-git) sur Git de la Viking Code School. Il explique bien les bases de Git et est une bonne alternative au notre.
